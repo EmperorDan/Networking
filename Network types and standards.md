@@ -13,6 +13,7 @@ commercial opportunity,
 information sharing, 
 collaboration
 
+
 ## client-server:
 This is the use of a central server that communicates, and shares data with multiple computers on the network.
 
@@ -25,8 +26,19 @@ commercial opportunity,
 information sharing, 
 collaboration
 
+
 ## cloud:
 Cloud servers are remote servers that are totally virtual. These virtual servers can be purchased for alot cheaper than physical servers.
+
+relate each type to aspects like purpose,
+benefits, 
+resource implications, 
+communications, 
+working practice, 
+commercial opportunity, 
+information sharing, 
+collaboration
+
 
 ## cluster:
 A cluster is when multiple nodes (computers, devices connected to the network) are linked together to perform one task. 
@@ -40,6 +52,7 @@ commercial opportunity,
 information sharing, 
 collaboration
 
+
 ## centralised
 With this network there is a central server that all users will connect to. This server will store the information that you provide to them, aswell as any communication you've had.
 
@@ -51,6 +64,7 @@ working practice,
 commercial opportunity, 
 information sharing, 
 collaboration
+
 
 ## virtualised 
 - External virtulisation is the when multiple networks are connected together to form a virtual unit. 
@@ -64,6 +78,7 @@ working practice,
 commercial opportunity, 
 information sharing, 
 collaboration
+
 
 # Services and network applications
 
