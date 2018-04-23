@@ -1,20 +1,25 @@
 # Network types, and standards.
 
 # Network types
-Peer-based:
+## Peer-based:
 Peer-based, or Peer-to-peer (P2P) is when multiple devices share resources without the use of an external server. 
 
-client-server:
+## client-server:
 This is the use of a central server that communicates, and shares data with multiple computers on the network.
 
-cloud:
+## cloud:
 Cloud servers are remote servers that are totally virtual. These virtual servers can be purchased for alot cheaper than physical servers.
 
-cluster:
+## cluster:
+A cluster is when multiple nodes (computers, devices connected to the network) are linked together to perform one task. 
+
+## centralised
+With this network there is a central server that all users will connect to. This server will store the information that you provide to them, aswell as any communication you've had.
+
+## virtualised 
 
 
-centralised, 
-virtualised; relate each type to aspects like purpose, 
+relate each type to aspects like purpose,
 benefits, 
 resource implications, 
 communications, 
@@ -32,9 +37,6 @@ collaboration
 
 
 ## Services and network applications
-
-
-## Services and network applications.
 
 FTP
 
