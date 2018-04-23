@@ -7,7 +7,7 @@ FTP
 File transfer protocol is an internet protocol that is used to transfer files. The files are transmitted via TCP/IP between computers on the internet.
 
 HTTP
-Hypertext Transfer Protocol is when 
+Hypertext Transfer Protocol is what is sent to a server when you type in an HTTP address. If the link is functional then a copy of the website and any associated files will be sent to your computers webpage.  
 
 SMTP
 
