@@ -3,70 +3,70 @@
 # Terms relating to Networking
 
 ### Services and network applications
-FTP
+**FTP
 
 
 File transfer protocol is an internet protocol that is used to transfer files. The files are transmitted via TCP/IP between computers on the internet.
 
-HTTP
+**HTTP
 
 
 Hypertext Transfer Protocol is what is sent to a server when you type in an HTTP address. If the link is functional then a copy of the website and any associated files will be sent to your computers webpage.  
 
-SMTP
+**SMTP
 
 
 Simple Mail Transfer Protocol is used when sending and recieving an email. It is typically used with POP3 or IMAP that save messages to a server mailbox. This protocol is an internet standard for electronic mail.
 
-POP3
+**POP3
 
 
-SSL
+**SSL
 
 
 ### Networking devices
-Hubs
+**Hubs
 
-Routers
+**Routers
 
-Switches
+**Switches
 
-Multiplayer switch
+**Multiplayer switch
 
-Firewall
+**Firewall
 
-HIDS
+**HIDS
 
-Repeaters
+**Repeaters
 
-Bridges
+**Bridges
 
-Wireless devices
+**Wireless devices
 
-Access point (wireless/wired)
+**Access point (wireless/wired)
 
-Content filter
+**Content filter
 
-Load balancer
+**Load balancer
 
-Modem
+**Modem
 
-Packet shaper
+**Packet shaper
 
-VPN concentrator
+**VPN concentrator
 
 ### Server types
-Web
+**Web
 
-File
+**File
 
-Database
+**Database
 
-Combination
+**Combination
 
-Virtulisation
+**Virtulisation
 
-Terminal services server
+**Terminal services server
 
 # Network types
 ### Peer-based:
