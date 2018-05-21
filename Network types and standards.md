@@ -10,7 +10,7 @@ HTTP
 Hypertext Transfer Protocol is what is sent to a server when you type in an HTTP address. If the link is functional then a copy of the website and any associated files will be sent to your computers webpage.  
 
 SMTP
-
+Simple Mail Transfer Protocol is used when sending and recieving an email. It is typically used with POP3 or IMAP that save messages to a server mailbox. This protocol is an internet standard for electronic mail.
 
 POP3
 
