@@ -3,7 +3,7 @@
 # Terms relating to Networking
 
 ### Services and network applications
-**FTP
+**FTP**
 
 
 File transfer protocol is an internet protocol that is used to transfer files. The files are transmitted via TCP/IP between computers on the internet.
