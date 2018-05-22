@@ -6,23 +6,23 @@
 **FTP**
 
 
-File transfer protocol is an internet protocol that is used to transfer files. The files are transmitted via TCP/IP between computers on the internet.
+File Transfer Protocol (FTP) is an internet protocol that is used to transfer files. The files are transmitted via TCP/IP between computers on the internet.
 
 **HTTP**
 
 
-Hypertext Transfer Protocol is what is sent to a server when you type in an HTTP address. If the link is functional then a copy of the website and any associated files will be sent to your computers webpage.  
+Hypertext Transfer Protocol (HTTP) is what is sent to a server when you type in an HTTP address. If the link is functional then a copy of the website and any associated files will be sent to your computers webpage.  
 
 **SMTP**
 
 
-Simple Mail Transfer Protocol is used when sending and recieving an email. It is typically used with POP3 or IMAP that save messages to a server mailbox. This protocol is an internet standard for electronic mail.
+Simple Mail Transfer Protocol (SMTP) is used when sending and recieving an email. It is typically used with POP3 or IMAP that save messages to a server mailbox. This protocol is an internet standard for electronic mail. 
 
 **POP3**
-
+Post Office Protocol (POP) is an internet standard protocol. Mail servers use POP to recieve emails from an IP, and filter and catorgorise the mail recieved.+
 
 **SSL**
-
+Secure Socket Layers are used to establish an encrypted link between the web server and the browser. Encrypting the data prevents your privacy from being vulnerable.
 
 ### Networking devices
 **Hubs**
