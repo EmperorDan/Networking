@@ -1,8 +1,8 @@
-# Network types, and standards.
+# Network Types, and Standards.
 
-# Terms relating to Networking
+## Terms Relating to Networking
 
-### Services and network applications
+### Services and Network Applications
 **FTP**
 
 
