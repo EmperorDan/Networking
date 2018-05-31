@@ -24,7 +24,7 @@ Post Office Protocol (POP) is an internet standard protocol. Mail servers use PO
 **SSL**
 Secure Socket Layers are used to establish an encrypted link between the web server and the browser. Encrypting the data prevents your privacy from being vulnerable.
 
-### Networking devices
+## Networking devices
 **Hubs**
 
 **Routers**
@@ -55,7 +55,7 @@ Secure Socket Layers are used to establish an encrypted link between the web ser
 
 **VPN concentrator**
 
-### Server types
+## Server types
 **Web**
 
 **File**
