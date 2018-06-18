@@ -38,15 +38,15 @@ A router is a networking device that forwards data packets between computer netw
 
 
 **Switches**
-A switch, in the context of networking is a high-speed device that receives incoming data packets and redirects them to their destination on a local area network (LAN).
+A switch is a high-speed device that receives incoming data packets and redirects them to their destination on a local area network (LAN).
 
 
 **Multiplayer switch**
-A multilayer switch is a network device that has the ability to operate at higher layers of the OSI reference model, unlike the Data Link Layer (DLL) traditionally used by switches.
+A multilayer switch is a network device that operates at higher layers of the OSI reference model, unlike the Data Link Layer (DLL) traditionally used by switches.
 
 
 **Firewall**
-In computing, a firewall is software or firmware that enforces a set of rules about what data packets will be allowed to enter or leave a network.
+A firewall is software or firmware that enforces a set of rules about what data packets will be allowed to enter or leave a network.
 
 
 **HIDS**
@@ -95,7 +95,7 @@ A Web server is a program that uses HTTP (Hypertext Transfer Protocol) to serve 
 
 
 **File**
-File Server. As the name implies, a file server is a server that provides access to files. It acts as a central file storage location that can be accessed by multiple systems.
+A file server is a server provides access to files. It acts as a central file storage location that can be accessed by multiple systems.
 
 
 **Database**
@@ -111,7 +111,7 @@ A virtual server is a server that shares hardware and software resources with ot
 
 
 **Terminal services server**
-Generally in information technology, a terminal server is a hardware device or server that provides terminals (PCs, printers, and other devices) with a common connection point to a local or wide area network. The terminals connect to the terminal server from their RS-232C or RS-423 serial port.
+A terminal server is a hardware device or server that provides terminals (PCs, printers, and other devices) with a common connection point to a local or wide area network. The terminals connect to the terminal server from their RS-232C or RS-423 serial port.
 
 
 # Network types
@@ -217,19 +217,19 @@ With this network there is a central server that all users will connect to. This
 
 
 **Resource Implications**
-The resources what will be needed for this network to be implemented would be the clients and the main server which holds all the information and communication.
+Clients are required aswell as the main server which contains information, and communication.
 
 
 **Communications**
-The communications that are created on the network are stored on the main server which handles all the things about the network.
+The main server saves communication made between computers. This allows companies to check for potentially harmful material.
 
 
 **Working practice**
-The working practice for this network is that all the conversations and information is passed through the server which can them check for any unwanted or inappropriate content allowed on and out of the network.
+There is always a risk of information leakage. But with communication being monitered that risk is lessened, and may be tracked.
 
 
 **Information sharing**
-information can be shared throughout the network but it must pass through and stored on the main server which can then be seen later for monetisation and review.
+Information passing through the main server is stored. This can be reviewed in the future.
 
 
 ### virtualised 
@@ -238,20 +238,14 @@ information can be shared throughout the network but it must pass through and st
 
 
 **Resource Implications**
-the resources that are needed for create this network would be the physical components for the physical server which would be the clients, server and the router to connect to the cloud network.
+Using a router, connect to the cloud network.
 
 
 **Communications**
-Communications will be easy to do by being able to communicate with anyone connected to the network (cloud/physical). The speed may be quicker if the target client is on the same physical network as you rather than sending it over the cloud.
-
-
-**Working Practice**
-the working practise for this network maybe cause problems because the room for error is larger now that two different types of networks are connected. A problem may occur on the virtual network which might be not detected by the physical network which may take it a while to be detected and removed.
-
+Communication is made easy because you have an established platform when working in a group. Files may be shared, updated, and freely edited depending on settings. 
 
 **Information Sharing**
-information sharing
-Information sharing will become easier on a network because it will allow people to communicate around the world by using the virtual network and they can also communicate around the local network without relying on the virtual network.
+As long as you have a compatible device, it doesnt matter where you are, you will be able to share information with others. This is invaluable when working with a group.
 
 
 
