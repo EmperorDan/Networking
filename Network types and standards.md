@@ -300,18 +300,106 @@ Using a router, connect to the cloud network.
 **Communications**
 Communication is made easy because you have an established platform when working in a group. Files may be shared, updated, and freely edited depending on settings. 
 
-**Information Sharing**
+**EInformation Sharing**
 As long as you have a compatible device, it doesnt matter where you are, you will be able to share information with others. This is invaluable when working with a group.
 
 
+# IEEE
+Electrical & Electronics Engineers (IEEE)
+### IEEE 802.3
+IEEE 802.3 is the access control for media, and the physical layer. 
+
+### IEEE 802.7
+IEEE 802.7 is used for broadband local area networks. Testing, design and installation are the priorities with this broadband cable.
+
+### IEEE 802.8
+IEEE 802.8 is used mostly with fibre optic developments. This IEEE is used to test fibre optic used with local area networks.
+
+### IEEE 802.11
+IEEE 802.11 uses frequency bands to implement wireless local area network computer communication.
+
+# Routed protocols
+Router protocols are what give a router the ability to communicate, with another router. The routers have to exchange information to make the link. The most popular routing protocol is IP addresses.
+
+# IPv4
+Internet protocol version 4 (IPv4) used to be an essential protocol. Although later became obsolete due to the volume of users, it was running out of IP adresses. To remedy the problem IPv6 was created which has 340,282,366,920,938,463,463,374,607,431,768,211,456 addresses.
+
+# Global unicast
+Global unicast is a feature of IPv6 which gives you a globally unique address. It gives a convenient, publically route that can be accessed via the internet, or public domain. Although there is a risk of security breaches due to packet loss.
+
+# the impact of network topology, communication and bandwidth requirements
+### logical
+The logical topology arranges nodes on a network, and defines their communication. Logical topology governs how signals, and data pass through the network and how that's handled on the devices connected to the network. 
+
+One type of logical topology is Ethernet. Ethernet is the most used local area network technology. Ethernet formats how data is transmitted to other network devices on the same network.
+
+### physical
+Physical topology is physical hardware for a network. This includes clients and servers on the network, and any asociated cables. It's important to have structure when using cables, so that they dont become tangled.
+
+# Types of Physical Topologies
+### Star
+The star topology is where all devices, and clients, are connected to one central node. This would mainly be a hub or switch.
+
+### Ring
+The ring topology is where the clients, and devices, on the network are connected in a circle layout.
+
+### Bus
+The bus topology is where the clients, and devices, are connected on a single line. The line is terminated on both ends.
+
+### The Difference Between Physical and Logical 
+Logical is designing and building the network. Whereas physical is setting up the real world equipment.
+
+# The interdependence of workstation hardware
 
 
+### Client Software
+Client software works within local area network, and wide area networks. It acts like an interface between a client’s computer, and the server on the network. The client software is located on the client’s computer. Client software can be word processors, Web browsers or any other service that the computer provides.
 
+### Server Software
+Server software is used with network servers. The software provides the server with the function to interact with the clients, and device on the network.
 
+### Client Operating System
+Client operating system is a low-level software that supports a computer's basic functions. 
 
+### Server Operating system
+The Server operating system is designed for server’s functions and objectives. These functions include communicating with clients and other devices. It also allows you to manage your database, web mail and files.
 
+### Firewall
+The firewall filters traffic entering the network, and will filter out most harmful software/packets of data.
 
+### Proxies
+Proxies act as a halfway point between a server, and will take requests from the client. The client will give the proxy server requests.
 
+# Comparison of network and Cabling
+### Network Comparison
+A network card allows a computer to connect to a network. The card faciliatates the exchange of data and information between the network and the client's PC. Another method of connection to a network would be the use of a wireless network. This wireless network allows the connection of two networks, without the need for a wired connection. This means that the network can be accessed from anywhere, via the internet. Another network connection would be mobile network connection. A mobile network distributes cells which each have a fixed transceiver, or base station.
+
+### Cabling Used
+Cabling is used to connect devices and hardware together for the purpose of transmitting data between. Below are various cables that can be used when setting up a network.
+
+### Patch Cables
+Patch cables are used to connect electrical devices together. They are commonly used for signal routing, and connecting devices that share a network.
+
+### Shielded Cables
+A shielded cable is used to transmit data from one device to another. This cable has a shield layer which comprises of braided stands of copper. Shieldled cabling reduces electrical noise that adversly effects the signals that are transmitted.
+
+### Twisted pair
+Twisted pair cabling contains twisted wires which reduce the chance of crosstalk. It also helps fight electromagnetic interference between the data, and packets being transported.
+
+### Permissions
+Permissions are network privileges that apply to clients, and devices on your network. A client may not have access to admin permissions for example. Below are various permissions.
+
+### NTFS
+NTFS permissions allow access to certain files and folders on a network. You can setup who has access to read, and or write on said files. NTFS allows the right users, the permissions they need to maintain the network, and the files on it.
+
+### Shared Permissions
+Shared permissions allow set privaledges for shared files. The files would then be restricted to those who aren't on the network.
+
+### Local Workstation Architecture
+Workstation Architecture is designed for technical or scientific applications. It is intended to be used by a network with one user. This workstation is mainly used to manage local area networks. Local workstations are used to maintain networks, and to potentially fix problems that occur.
+
+### System Bus
+A system bus creates a path for data to travel to the main memory of the computer, and then carried to the microprocessor. It establishes a communication pathway for the data to travel on.
 
 
 
