@@ -157,9 +157,8 @@ The application layer is used to handle all process-to-process communication fun
 - Enables organisations to connect their networks together.
 
 ### Disadvantages of the TCP/IP model
--
--
--
+- Complex to set up and manage.
+- IPX is faster.
 
 ### Benefits of the OCI model
 - You are given a wider variety of choice than with TCP/IP model. 
@@ -167,10 +166,10 @@ The application layer is used to handle all process-to-process communication fun
 - Easy to add multiple-network models.
 - Ecrypts data.
 
-### Benefits of the OCI model
--
--
--
+### Disadvantages of the OCI model
+- Many applications do not require/need the data integrity, which is provided by OSI-model
+- Complex.
+- OSI requires an agreement between the users & service provider.
 
 # Network types
 ### Peer-based:
