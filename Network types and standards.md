@@ -402,7 +402,7 @@ Workstation Architecture is designed for technical or scientific applications. I
 A system bus creates a path for data to travel to the main memory of the computer, and then carried to the microprocessor. It establishes a communication pathway for the data to travel on.
 
 # Network design
-I'll start by creating my star network. A star network is where multiple devices are connected to a central point. I need to include multiple devices: 3 pc's, a server, a switch, a primer and an access point. My central point in my star network was the hub. I needed to be able to communicate with other devices on the network. 
+I'll start by creating my star network. A star network is where multiple devices are connected to a central point. I need to include multiple devices: 3 pc's, a server, a switch, a primer and an access point. My central point in my star network was the hub. I needed to be able to communicate with devices on the opposite network, aswell as the devices within a network being able to do so together. 
 
 ![](https://i.imgur.com/vnKPN9X.png)
 
@@ -424,11 +424,13 @@ Server 192.168.10.10
 Router 192.168.10.1
 
 # Creating the Network
+![](https://i.imgur.com/wDjbpcr.png)
+
+Above is my completed network which meets the criteria in my design. I have structured my network clearly, and to mirror themselves. I added a printer for each network as an extra.
+
+# Test Plan
+![](https://i.imgur.com/9UqgbFd.png)
 
 
-
-
-
-
-
-
+# Evaluation
+My network met the requirements stated in my design. The network itself had many devices involved, working simultaneously. This created a very sturdy, and efficient network. Transporting data packets using the star model was more efficient and had less interference. 
