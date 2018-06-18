@@ -114,6 +114,53 @@ A virtual server is a server that shares hardware and software resources with ot
 A terminal server is a hardware device or server that provides terminals (PCs, printers, and other devices) with a common connection point to a local or wide area network. The terminals connect to the terminal server from their RS-232C or RS-423 serial port.
 
 
+# OSI model
+### The Physical Layer (Layer 1)
+The first layer of the OSI model is the phisical layer, that transmitts information to the user. This layer will be the first thing the user see's, and interacts with. 
+
+### The Data Link Layer (Layer 2)
+This layer creates links between all the repective layers. While doing this it also carries out tasks such as: accessing media, and error correcting.
+
+### The Network Layer (Layer 3)
+This layer of the OSI handles traffic the network encounters. It decides, and controls said traffic in the network.
+
+### The Transport Layer (Layer 4)
+The transport layer is the fourth layer of the OSI model. It handles traffic and message segmentation. It also makes sure messages reach their desired location, and that no information is lost along the way.
+
+### The Session Layer (Layer 5)
+This is the fifth layer of the OSI. It establishes a session, it also handles maintance, and termination of said session.
+
+### The Presentation Layer (Layer 6)
+The sixth layer of the OSI model handles the character code translation (I.E ASCII), encryption, and compression.
+
+### The Application Layer (Layer 7)
+The seventh layer provides to users: remote access, and network access. The purpose of this layer varies, depnding on the type of application your producing.
+
+# TCP/IP model
+### The Link Layer (Layer 1)
+
+
+The first layer of the TCP/IP model is the link layer which acts as the interface for the network. This layer is a combination of the physical layer and the data link layer of the OCI model.
+
+### The Internet Layer (Layer 2)
+
+
+The Internet layer is the next layer up from the link layer and is associated with the network layer of the OSI model. Functions include traffic routing, traffic control, fragmentation, and logical addressing.
+
+### The Transport Layer (Layer 3)
+
+
+The transport layer is the third layer the functions are related to the OSI model. The functions include traffic control, error detection, message recording, message segmentation and acknowledgment.
+
+### The Application Layer (Layer 4)
+
+
+The forth layer in this model is the application model. In the TCP/IP model the application model is used to handle all process-to-process communication functions; these functions were carried out by multiple different layers when referencing the OSI model.
+
+# Benefits of TCP/IP and OCI models
+
+
+
 # Network types
 ### Peer-based:
 Peer-based, or Peer-to-peer (P2P) is when multiple devices share resources without the use of an external server. P2P is most commonly associated with piracy, and its clear why. P2P networks are made up of many users (ideally) that, while on the server, act as file servers. The things you need to connect to a P2P server is an internet connection, and P2P software.   
