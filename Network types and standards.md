@@ -138,28 +138,31 @@ The seventh layer provides to users: remote access, and network access. The purp
 
 # TCP/IP model
 ### The Link Layer (Layer 1)
-
-
-The first layer of the TCP/IP model is the link layer which acts as the interface for the network. This layer is a combination of the physical layer and the data link layer of the OCI model.
+This layer combines the physical, and data link layer in the OSI model. This layer is the interface for your network.
 
 ### The Internet Layer (Layer 2)
-
-
-The Internet layer is the next layer up from the link layer and is associated with the network layer of the OSI model. Functions include traffic routing, traffic control, fragmentation, and logical addressing.
+The Internet layer is associated with the network layer from the OSI model. It's functions include: traffic control, traffic routing, fragmentation, and logical addressing.
 
 ### The Transport Layer (Layer 3)
-
-
-The transport layer is the third layer the functions are related to the OSI model. The functions include traffic control, error detection, message recording, message segmentation and acknowledgment.
+Layer 3 shares the same components as the transort layer from the OSI model. These functions include: traffic control, error detection, message segmentation, message recording, and acknowledgment.
 
 ### The Application Layer (Layer 4)
-
-
-The forth layer in this model is the application model. In the TCP/IP model the application model is used to handle all process-to-process communication functions; these functions were carried out by multiple different layers when referencing the OSI model.
+The application layer is used to handle all process-to-process communication functions. The functions are carried out by multiple different layers when referencing the OSI model.
 
 # Benefits of TCP/IP and OCI models
+### Benefits of the TCP/IP model
+-
+-
+-
+-
+-
 
-
+### Benefits of the OCI model
+-
+-
+-
+-
+-
 
 # Network types
 ### Peer-based:
