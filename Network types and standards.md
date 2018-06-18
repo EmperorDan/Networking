@@ -151,15 +151,23 @@ The application layer is used to handle all process-to-process communication fun
 
 # Benefits of TCP/IP and OCI models
 ### Benefits of the TCP/IP model
--
--
+- Various different computers can establish a connection.
+- Operates indepently from the operating system.
+- Supports a number of routing-protocals.
+- Enables organisations to connect their networks together.
+
+### Disadvantages of the TCP/IP model
 -
 -
 -
 
 ### Benefits of the OCI model
--
--
+- You are given a wider variety of choice than with TCP/IP model. 
+- Doesn't depend on a specific computer system.
+- Easy to add multiple-network models.
+- Ecrypts data.
+
+### Benefits of the OCI model
 -
 -
 -
@@ -167,7 +175,6 @@ The application layer is used to handle all process-to-process communication fun
 # Network types
 ### Peer-based:
 Peer-based, or Peer-to-peer (P2P) is when multiple devices share resources without the use of an external server. P2P is most commonly associated with piracy, and its clear why. P2P networks are made up of many users (ideally) that, while on the server, act as file servers. The things you need to connect to a P2P server is an internet connection, and P2P software.   
-
 
 **Benefits**
 - A peer to peer network is easier to set up.
